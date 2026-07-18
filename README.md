@@ -151,18 +151,6 @@ VITE_API_URL=http://localhost:8000/api
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots after deployment:
-
-- Dashboard
-- Tasks
-- Categories
-- Settings
-- Login
-
----
-
 # 🚀 Future Improvements
 
 - Calendar View
