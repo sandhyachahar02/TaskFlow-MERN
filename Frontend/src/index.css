@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import "@fontsource/ibm-plex-mono";
+
+@font-face {
+    font-family: "General Sans";
+    src: url("./assets/fonts/GeneralSans-Regular.otf");
+}
+
+@font-face {
+    font-family: "General Sans Medium";
+    src: url("./assets/fonts/GeneralSans-Medium.otf");
+}
+
+@font-face {
+    font-family: "General Sans SemiBold";
+    src: url("./assets/fonts/GeneralSans-Semibold.otf");
+}
+
+@font-face {
+    font-family: "General Sans Bold";
+    src: url("./assets/fonts/GeneralSans-Bold.otf");
+}
+
+body{
+    background:#F8FAFC;
+}
